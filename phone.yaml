@@ -1,0 +1,13 @@
+---
+- brand: "Apple"
+  weight: 170
+  screenSize: 7
+  price: 999
+- brand: "ZTE"
+  weight: 172
+  screenSize: 7
+  price: 666
+- brand: "Xiaomi"
+  weight: 130
+  screenSize: 6
+  price: 333
